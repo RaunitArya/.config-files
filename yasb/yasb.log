@@ -1,0 +1,1203 @@
+2025-11-18 23:12:08,717 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:12:08,719 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:12:08,719 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:12:08,787 [INFO] [MainThread] [root/config.py:64]: Created default config file at C:\Users\Raunit\.config\yasb\config.yaml
+2025-11-18 23:12:08,863 [INFO] [MainThread] [root/config.py:78]: Created default stylesheet at C:\Users\Raunit\.config\yasb\styles.css
+2025-11-18 23:12:10,071 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-18 23:12:16,792 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-18 23:12:18,373 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-18 23:12:19,063 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-18 23:12:19,065 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-11-18 23:12:19,065 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-18 23:12:19,066 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-18 23:12:19,644 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-ee0859af-c4a5-11f0-8def-9c297616ca55
+2025-11-18 23:12:19,700 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-18 23:12:19,700 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-18 23:12:19,705 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-18 23:12:20,323 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:12:20,325 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:12:20,326 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:12:20,326 [ERROR] [MainThread] [root/main.py:76]: Another instance of the YASB is already running.
+2025-11-18 23:16:23,292 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-18 23:16:23,399 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-18 23:16:23,399 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-18 23:16:23,423 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-18 23:16:23,505 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-18 23:16:23,507 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-11-18 23:16:23,507 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-18 23:16:23,565 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-18 23:16:23,570 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-18 23:16:23,577 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-18 23:16:24,359 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:16:24,362 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:16:24,362 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:16:25,713 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-18 23:16:27,677 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-18 23:16:27,989 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-18 23:16:29,789 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-18 23:16:29,790 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-18 23:16:29,793 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-18 23:16:29,931 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-18 23:16:29,931 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-18 23:16:29,934 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-18 23:22:55,598 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-18 23:22:55,702 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-18 23:22:55,703 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-18 23:22:55,731 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-18 23:22:56,028 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-18 23:22:56,029 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-18 23:22:56,045 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-18 23:22:56,061 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-18 23:22:56,074 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-18 23:22:56,791 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:22:56,793 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:22:56,794 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:22:57,477 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-18 23:22:59,272 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-18 23:22:59,556 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-18 23:23:00,547 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-18 23:23:00,548 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-18 23:23:00,551 [ERROR] [MainThread] [root/widget_builder.py:100]: Failed to validate widget(s) due to invalid options  - memory
+      label_shadow:
+      - glazewm_workspaces:
+        - unknown field
+      
+2025-11-18 23:23:00,685 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-18 23:23:00,794 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-18 23:23:00,794 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-18 23:23:00,798 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-18 23:23:16,892 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-18 23:23:16,998 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-18 23:23:16,999 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-18 23:23:17,014 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-18 23:23:17,277 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-18 23:23:17,278 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-18 23:23:17,292 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-18 23:23:17,296 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-18 23:23:17,306 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-18 23:23:18,035 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:23:18,039 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:23:18,040 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:23:18,679 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-18 23:23:19,580 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-18 23:23:19,838 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-18 23:23:20,696 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-18 23:23:20,699 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-18 23:23:20,699 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-18 23:23:20,850 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-18 23:23:20,850 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-18 23:23:20,852 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-18 23:23:58,237 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-18 23:23:58,340 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-18 23:23:58,340 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-18 23:23:58,359 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-18 23:23:58,604 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-18 23:23:58,605 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-18 23:23:58,619 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-18 23:23:58,635 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-18 23:23:58,662 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-18 23:23:59,301 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:23:59,302 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:23:59,303 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:23:59,803 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'pomodoro
+2025-11-18 23:23:59,896 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-18 23:24:00,836 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-18 23:24:01,050 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-18 23:24:01,313 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'memory
+2025-11-18 23:24:01,897 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-18 23:24:01,897 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-18 23:24:01,899 [ERROR] [MainThread] [root/widget_builder.py:86]: Failed to add undefined widget(s)  - The widget "memory" is undefined.
+ - The widget "pomodoro" is undefined.
+2025-11-18 23:24:01,977 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-18 23:24:02,096 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-18 23:24:02,096 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-18 23:24:02,099 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-18 23:24:15,519 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-18 23:24:15,627 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-18 23:24:15,627 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-18 23:24:15,635 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-18 23:24:15,871 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-18 23:24:15,871 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-18 23:24:15,884 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-18 23:24:15,892 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-18 23:24:15,935 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-18 23:24:16,548 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:24:16,551 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:24:16,552 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:24:17,155 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-18 23:24:18,015 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-18 23:24:18,249 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-18 23:24:19,203 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-18 23:24:19,206 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-18 23:24:19,207 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-18 23:24:19,382 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-18 23:24:19,383 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-18 23:24:19,387 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-18 23:43:38,813 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:43:38,814 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:43:38,815 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:43:39,422 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-18 23:43:40,949 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-18 23:43:41,207 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-18 23:43:41,693 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-18 23:43:41,695 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-18 23:43:41,696 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-18 23:43:41,779 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-18 23:43:41,780 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-18 23:43:41,782 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-18 23:50:53,708 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-18 23:50:53,709 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-18 23:50:53,814 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-18 23:50:53,815 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-18 23:50:53,955 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-18 23:50:53,956 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-18 23:50:54,010 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-18 23:50:54,017 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-18 23:50:54,020 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-18 23:50:56,189 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:50:56,190 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:50:56,191 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:50:57,098 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-18 23:50:57,625 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-18 23:50:59,517 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-11-18 23:50:59,521 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-18 23:50:59,524 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-18 23:50:59,603 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-18 23:50:59,603 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-18 23:50:59,606 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-18 23:52:12,124 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-18 23:52:12,125 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-18 23:52:12,232 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-18 23:52:12,232 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-18 23:52:12,239 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-18 23:52:12,239 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-11-18 23:52:12,242 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-18 23:52:12,248 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-18 23:52:12,250 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-18 23:52:14,128 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:52:14,130 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:52:14,131 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:52:14,344 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-18 23:52:14,830 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-18 23:52:15,132 [INFO] [MainThread] [root/api.py:60]: GitHubDataManager started...
+2025-11-18 23:52:15,439 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-11-18 23:52:15,439 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-18 23:52:15,440 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-18 23:52:15,503 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-8261f425-c4ab-11f0-97f3-9c297616ca55
+2025-11-18 23:52:15,587 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-18 23:52:15,587 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-18 23:52:15,590 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-18 23:52:16,016 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:52:16,017 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:52:26,254 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:52:26,254 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:52:33,240 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: invalid literal for int() with base 16: ''
+2025-11-18 23:52:36,489 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:52:36,490 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:52:46,740 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:52:46,740 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:52:56,975 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:52:56,975 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:53:07,223 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2025-11-18 23:53:07,223 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:53:17,466 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2025-11-18 23:53:17,466 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:53:27,719 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:53:27,719 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:53:37,962 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:53:37,962 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:53:48,325 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:53:48,325 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:53:58,554 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:53:58,555 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:54:08,790 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2025-11-18 23:54:08,791 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:54:19,023 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:54:19,024 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:54:29,254 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:54:29,255 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:54:39,495 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:54:39,496 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:54:49,723 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:54:49,723 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:54:59,956 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:54:59,956 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:55:10,190 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:55:10,191 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:55:20,430 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:55:20,431 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:55:30,673 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2025-11-18 23:55:30,673 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:55:40,912 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2025-11-18 23:55:40,913 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:55:51,151 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:55:51,151 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:56:01,381 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:56:01,381 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:56:11,632 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2025-11-18 23:56:11,632 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:56:16,710 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-18 23:56:16,711 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-18 23:56:16,827 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-18 23:56:16,827 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-18 23:56:16,879 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-11-18 23:56:16,880 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-18 23:56:16,969 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-18 23:56:16,995 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-18 23:56:17,041 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-18 23:56:19,172 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:56:19,173 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:56:19,174 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:56:19,379 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-18 23:56:20,777 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-18 23:56:21,064 [INFO] [MainThread] [root/api.py:60]: GitHubDataManager started...
+2025-11-18 23:56:21,292 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-11-18 23:56:21,293 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-18 23:56:21,294 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-18 23:56:21,368 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-14ec2684-c4ac-11f0-8f37-9c297616ca55
+2025-11-18 23:56:21,430 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-18 23:56:21,431 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-18 23:56:21,433 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-18 23:56:21,845 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:56:21,846 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:56:32,081 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:56:32,081 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:56:42,325 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:56:42,326 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:56:52,568 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:56:52,568 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:57:04,772 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:57:04,773 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:57:15,004 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:57:15,004 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:57:25,237 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-18 23:57:25,238 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-18 23:57:27,100 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-18 23:57:27,101 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-18 23:57:27,214 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-18 23:57:27,214 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-18 23:57:27,268 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-11-18 23:57:27,269 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-18 23:57:27,319 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-18 23:57:27,327 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-18 23:57:27,361 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-18 23:57:29,365 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:57:29,366 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:57:29,367 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:57:29,616 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-18 23:57:30,141 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-18 23:57:31,019 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-18 23:57:31,019 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-11-18 23:57:31,020 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-18 23:57:31,109 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-3e7bc0a0-c4ac-11f0-b55f-9c297616ca55
+2025-11-18 23:57:31,204 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-18 23:57:31,204 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-18 23:57:31,209 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-18 23:57:31,438 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-11-18 23:57:31.438841
+2025-11-18 23:58:10,718 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-18 23:58:10,719 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-18 23:58:10,829 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-18 23:58:10,829 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-18 23:58:11,067 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-18 23:58:11,068 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-11-18 23:58:11,131 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-18 23:58:11,140 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-18 23:58:11,145 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-18 23:58:13,001 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:58:13,002 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:58:13,003 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:58:13,174 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-18 23:58:13,544 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-18 23:58:14,145 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-11-18 23:58:14,146 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-18 23:58:14,147 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-18 23:58:14,224 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-58303d75-c4ac-11f0-869e-9c297616ca55
+2025-11-18 23:58:14,280 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-18 23:58:14,280 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-18 23:58:14,283 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-18 23:58:14,528 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-11-18 23:58:14.528386
+2025-11-18 23:58:27,184 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-18 23:58:27,185 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-18 23:58:27,300 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-18 23:58:27,300 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-18 23:58:27,353 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-11-18 23:58:27,354 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-18 23:58:27,463 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-18 23:58:27,474 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-18 23:58:27,480 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-18 23:58:29,429 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:58:29,430 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:58:29,431 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:58:29,611 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-18 23:58:30,123 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-18 23:58:30,635 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-11-18 23:58:30,639 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-18 23:58:30,641 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-18 23:58:30,708 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-6204ba8b-c4ac-11f0-8ca7-9c297616ca55
+2025-11-18 23:58:30,771 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-18 23:58:30,772 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-18 23:58:30,774 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-18 23:58:31,595 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-11-18 23:58:31.595253
+2025-11-18 23:59:42,763 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-18 23:59:42,764 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-18 23:59:42,871 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-18 23:59:42,871 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-18 23:59:42,926 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-11-18 23:59:42,927 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-18 23:59:43,051 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-18 23:59:43,059 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-18 23:59:43,066 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-18 23:59:45,061 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-18 23:59:45,063 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-18 23:59:45,063 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-18 23:59:45,527 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-18 23:59:46,641 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-11-18 23:59:46,645 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-11-18 23:59:46,646 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-18 23:59:46,647 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-8f529934-c4ac-11f0-9c9f-9c297616ca55
+2025-11-18 23:59:46,649 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-18 23:59:46,649 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-18 23:59:46,734 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-18 23:59:46,734 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-18 23:59:46,736 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-18 23:59:46,738 [DEBUG] [MainThread] [systray_widget/systray.py:549]: Loading state from C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-18 23:59:46,739 [DEBUG] [MainThread] [systray_widget/systray.py:559]: State file not found.
+2025-11-18 23:59:46,743 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-11-18 23:59:46,744 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-11-18 23:59:46,754 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 2099580
+2025-11-18 23:59:46,754 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2099580
+2025-11-18 23:59:46,773 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-11-18 23:59:46,781 [DEBUG] [MainThread] [systray_widget/systray.py:298]: Systray thread started
+2025-11-18 23:59:46,982 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2099580
+2025-11-18 23:59:47,001 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49273
+2025-11-18 23:59:47,123 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2025-11-18 23:59:47,959 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 75499843
+2025-11-18 23:59:49,063 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-18 23:59:49,064 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-18 23:59:50,606 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-18 23:59:50,607 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-19 00:02:15,948 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-19 00:02:15,949 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-19 00:02:15,949 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-19 00:02:16,247 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-19 00:02:16,740 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-19 00:02:18,039 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-11-19 00:02:18,040 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-19 00:02:18,043 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-19 00:02:18,043 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-e98f85a6-c4ac-11f0-a01f-9c297616ca55
+2025-11-19 00:02:18,044 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-19 00:02:18,209 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-19 00:02:18,210 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-19 00:02:18,212 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-19 00:02:18,216 [DEBUG] [MainThread] [systray_widget/systray.py:549]: Loading state from C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-19 00:02:18,217 [DEBUG] [MainThread] [systray_widget/systray.py:559]: State file not found.
+2025-11-19 00:02:18,222 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-11-19 00:02:18,222 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-11-19 00:02:18,242 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 1705466
+2025-11-19 00:02:18,242 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1705466
+2025-11-19 00:02:18,267 [DEBUG] [MainThread] [systray_widget/systray.py:298]: Systray thread started
+2025-11-19 00:02:18,470 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1705466
+2025-11-19 00:02:18,471 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-11-19 00:02:18,488 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49273
+2025-11-19 00:02:18,503 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2025-11-19 00:02:18,510 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 326566437
+2025-11-19 00:02:19,547 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-19 00:02:19,547 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-19 00:03:35,696 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-19 00:03:35,697 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-19 00:03:35,808 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-19 00:03:35,808 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-19 00:03:35,850 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-11-19 00:03:35,851 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-19 00:03:35,851 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-19 00:03:35,854 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-19 00:03:35,854 [DEBUG] [MainThread] [systray_widget/systray.py:527]: Saving state to disk
+2025-11-19 00:03:35,855 [DEBUG] [MainThread] [systray_widget/systray.py:531]: Saving state to C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-19 00:03:35,855 [DEBUG] [MainThread] [systray_widget/systray.py:539]: State file not found.
+2025-11-19 00:03:35,857 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1705466
+2025-11-19 00:03:35,858 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 6228094
+2025-11-19 00:03:35,865 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-19 00:03:35,871 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-19 00:03:35,877 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-19 00:03:37,356 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-19 00:03:37,357 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-19 00:03:37,358 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-19 00:03:37,358 [ERROR] [MainThread] [root/main.py:76]: Another instance of the YASB is already running.
+2025-11-19 00:03:42,920 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 6228094
+2025-11-19 00:03:42,920 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1705466
+2025-11-19 00:04:08,213 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-19 00:04:08,215 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-19 00:04:08,215 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-19 00:04:08,549 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-19 00:04:09,504 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-19 00:04:09,891 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-19 00:04:09,893 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-19 00:04:10,005 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-19 00:04:10,006 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-19 00:04:10,009 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-19 00:04:10,419 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-11-19 00:04:10,419 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-19 00:04:20,521 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-11-19 00:04:20,522 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-19 00:04:30,615 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2025-11-19 00:04:30,616 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-19 00:04:32,264 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-19 00:04:32,264 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-19 00:04:32,369 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-19 00:04:32,370 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-19 00:04:32,474 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-19 00:04:32,501 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-19 00:04:32,511 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-19 00:04:32,513 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-19 00:04:34,431 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-19 00:04:34,433 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-19 00:04:34,433 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-19 00:04:34,646 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-19 00:04:36,351 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-19 00:04:36,650 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-19 00:04:36,651 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-11-19 00:04:36,653 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-19 00:04:36,720 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-3c2e0ba0-c4ad-11f0-bd5b-9c297616ca55
+2025-11-19 00:04:36,801 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-19 00:04:36,801 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-19 00:04:36,804 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-19 00:04:36,810 [DEBUG] [MainThread] [systray_widget/systray.py:549]: Loading state from C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-19 00:04:36,829 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-11-19 00:04:36,830 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-11-19 00:04:36,878 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 853570
+2025-11-19 00:04:36,879 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 853570
+2025-11-19 00:04:37,123 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-11-19 00:04:37,585 [DEBUG] [MainThread] [systray_widget/systray.py:298]: Systray thread started
+2025-11-19 00:04:37,769 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-11-19 00:04:37.769633
+2025-11-19 00:04:37,801 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 853570
+2025-11-19 00:04:37,816 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49273
+2025-11-19 00:04:37,822 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2025-11-19 00:04:37,850 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 121374071
+2025-11-19 00:04:38,892 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-19 00:04:38,893 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-19 00:14:37,239 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-11-19 00:14:37.239729
+2025-11-19 00:15:48,783 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-19 00:15:48,783 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-11-19 00:15:48,853 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-19 00:15:48,854 [DEBUG] [MainThread] [systray_widget/systray.py:527]: Saving state to disk
+2025-11-19 00:15:48,856 [DEBUG] [MainThread] [systray_widget/systray.py:531]: Saving state to C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-19 00:15:48,859 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 853570
+2025-11-19 00:15:48,862 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 591198
+2025-11-24 19:55:37,919 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-24 19:55:37,922 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-24 19:55:37,923 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-24 19:55:40,092 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-24 19:55:55,436 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-24 19:55:59,712 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-24 19:55:59,714 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-11-24 19:55:59,715 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-24 19:55:59,766 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-7f78802f-c941-11f0-9587-9c297616ca55
+2025-11-24 19:56:01,426 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-24 19:56:01,427 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-24 19:56:01,433 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-24 19:56:01,442 [DEBUG] [MainThread] [systray_widget/systray.py:549]: Loading state from C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-24 19:56:01,712 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-11-24 19:56:01,712 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-11-24 19:56:02,241 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 1115864
+2025-11-24 19:56:02,284 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1115864
+2025-11-24 19:56:02,384 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-11-24 19:56:07,165 [DEBUG] [MainThread] [systray_widget/systray.py:298]: Systray thread started
+2025-11-24 19:56:07,183 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-11-24 19:56:07.183398
+2025-11-24 19:56:07,372 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1115864
+2025-11-24 19:56:07,419 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49273
+2025-11-24 19:56:07,489 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2025-11-24 19:56:08,401 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 119343141
+2025-11-24 19:56:10,993 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-24 19:56:10,996 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:05:15,662 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-24 20:05:15,664 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-24 20:05:15,665 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-24 20:05:15,955 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-24 20:05:19,441 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-24 20:05:19,940 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-11-24 20:05:19,941 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-24 20:05:19,943 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-24 20:05:20,019 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-cd644e39-c942-11f0-b941-9c297616ca55
+2025-11-24 20:05:20,200 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-24 20:05:20,200 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-24 20:05:20,210 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-24 20:05:20,221 [DEBUG] [MainThread] [systray_widget/systray.py:549]: Loading state from C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-24 20:05:20,233 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-11-24 20:05:20,235 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-11-24 20:05:20,499 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 330524
+2025-11-24 20:05:20,501 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 330524
+2025-11-24 20:05:20,699 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-11-24 20:05:22,216 [DEBUG] [MainThread] [systray_widget/systray.py:298]: Systray thread started
+2025-11-24 20:05:22,418 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 330524
+2025-11-24 20:05:22,444 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49273
+2025-11-24 20:05:22,467 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2025-11-24 20:05:22,502 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 1640298
+2025-11-24 20:05:22,821 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-11-24 20:05:22.821446
+2025-11-24 20:05:25,196 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-24 20:05:25,198 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:06:02,874 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-24 20:06:02,876 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:10:22,856 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-24 20:10:22,857 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-24 20:10:22,963 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-24 20:10:22,963 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-24 20:10:23,431 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-11-24 20:10:23,432 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-24 20:10:23,437 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:10:23,438 [DEBUG] [MainThread] [systray_widget/systray.py:527]: Saving state to disk
+2025-11-24 20:10:23,439 [DEBUG] [MainThread] [systray_widget/systray.py:531]: Saving state to C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-24 20:10:23,443 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 330524
+2025-11-24 20:10:23,444 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 5114294
+2025-11-24 20:10:23,489 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-24 20:10:23,505 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-24 20:10:23,527 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-24 20:10:23,629 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 5114294
+2025-11-24 20:10:23,631 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 330524
+2025-11-24 20:10:29,085 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-24 20:10:29,089 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-24 20:10:29,091 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-24 20:10:32,347 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-24 20:10:35,267 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-24 20:10:43,092 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-24 20:10:43,097 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-24 20:10:43,099 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-24 20:10:43,416 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-24 20:10:43,419 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-24 20:10:43,424 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-24 20:10:43,432 [DEBUG] [MainThread] [systray_widget/systray.py:549]: Loading state from C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-24 20:10:43,438 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-11-24 20:10:43,439 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-11-24 20:10:43,483 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 3869764
+2025-11-24 20:10:43,483 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 3869764
+2025-11-24 20:10:43,620 [DEBUG] [MainThread] [systray_widget/systray.py:298]: Systray thread started
+2025-11-24 20:10:43,826 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-11-24 20:10:43,828 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 3869764
+2025-11-24 20:10:43,869 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49273
+2025-11-24 20:10:43,881 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2025-11-24 20:10:44,104 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 62587975
+2025-11-24 20:10:46,523 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-24 20:10:46,524 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:11:26,403 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,405 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,413 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,418 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,432 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,438 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,446 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,460 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,468 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,480 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,488 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,501 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,510 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,518 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,530 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,538 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,550 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,565 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,578 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,586 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,592 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,601 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,606 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,614 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,627 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,636 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,650 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,656 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,671 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,677 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,684 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,698 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,706 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,712 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,727 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,733 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,740 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,754 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,762 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,775 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,782 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,796 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,810 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,831 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,838 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,860 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,867 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,873 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,895 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,909 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,923 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,936 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,943 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,965 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,972 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,993 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:26,999 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,006 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,027 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,041 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,056 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,070 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,077 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,097 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,105 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,126 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,132 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,154 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,162 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,176 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,198 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,206 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,219 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,232 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,240 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,260 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,268 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,288 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,296 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,310 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,330 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,337 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,359 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,366 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,372 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,394 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,409 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,424 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,427 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,448 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,456 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,477 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,484 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,491 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,513 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,525 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,556 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,577 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,597 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,680 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,694 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,724 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,729 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,736 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,751 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,758 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,764 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,772 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,778 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,791 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,800 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,814 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,821 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,835 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,841 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,862 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,869 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,876 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,906 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:27,934 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,004 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,017 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,023 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,030 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,038 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,045 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,052 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,060 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,066 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,073 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,080 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,088 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,095 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,101 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,109 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,115 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,122 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,129 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,136 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,143 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,149 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,157 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,164 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,171 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,178 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,187 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,192 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,199 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,206 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,213 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,220 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,228 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,235 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,241 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,247 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,255 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,262 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,269 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,277 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,283 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,290 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,297 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,304 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,311 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,318 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,325 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,333 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,340 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,347 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,353 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,360 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,367 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,375 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,381 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,388 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,395 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,402 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,409 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,417 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,424 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,430 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,440 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,444 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,451 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,459 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,466 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,473 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,480 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,487 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,494 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,500 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,508 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,515 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,522 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,529 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,536 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,549 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,564 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,571 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,579 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,586 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,592 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,607 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,614 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,620 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,628 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,641 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,657 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,669 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,676 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,711 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,725 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,768 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,774 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,781 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,802 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,809 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,816 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,832 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,860 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,873 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:28,915 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,001 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,544 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,545 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,554 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,560 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,566 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,574 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,583 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,587 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,594 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,603 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,611 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,616 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,623 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,631 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,637 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,645 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,653 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,658 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,664 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,672 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,680 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,689 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,696 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,701 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,707 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,714 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,721 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,730 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,736 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,743 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,748 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,757 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,762 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,772 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,777 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,785 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,793 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,798 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,805 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,815 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,821 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,828 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,835 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,841 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,849 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,855 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,861 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,871 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,877 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,883 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,891 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,898 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,905 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,911 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,919 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,926 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,933 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,938 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,946 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,955 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,962 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:29,968 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:31,238 [DEBUG] [MainThread] [systray_widget/systray.py:468]: Is empty: True, force show: True
+2025-11-24 20:11:31,668 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:11:31,669 [DEBUG] [MainThread] [systray_widget/systray.py:527]: Saving state to disk
+2025-11-24 20:11:31,671 [DEBUG] [MainThread] [systray_widget/systray.py:531]: Saving state to C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-24 20:13:10,092 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-24 20:13:10,093 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-24 20:13:10,198 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-24 20:13:10,198 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-24 20:13:11,600 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-24 20:13:11,602 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-24 20:13:11,606 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:13:11,606 [DEBUG] [MainThread] [systray_widget/systray.py:527]: Saving state to disk
+2025-11-24 20:13:11,609 [DEBUG] [MainThread] [systray_widget/systray.py:531]: Saving state to C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-24 20:13:11,614 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3869764
+2025-11-24 20:13:11,615 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 395282
+2025-11-24 20:13:11,632 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-24 20:13:11,638 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-24 20:13:11,651 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-24 20:13:11,784 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 395282
+2025-11-24 20:13:11,785 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3869764
+2025-11-24 20:13:15,662 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-24 20:13:15,666 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-24 20:13:15,668 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-24 20:13:16,549 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-24 20:13:18,727 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-24 20:13:19,886 [INFO] [MainThread] [root/api.py:60]: GitHubDataManager started...
+2025-11-24 20:13:20,455 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-11-24 20:13:20,456 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-24 20:13:20,458 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-24 20:13:20,512 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-ebcd0a1f-c943-11f0-aace-9c297616ca55
+2025-11-24 20:13:20,876 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-24 20:13:20,877 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-24 20:13:20,880 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-24 20:13:21,596 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-24 20:13:21,597 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-24 20:13:32,014 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2025-11-24 20:13:32,014 [WARNING] [MainThread] [root/weather.py:524]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-11-24 20:13:39,361 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-24 20:13:39,362 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-24 20:13:39,472 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-24 20:13:39,472 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-24 20:13:39,557 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-11-24 20:13:39,557 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-24 20:13:39,657 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-24 20:13:39,665 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-24 20:13:39,679 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-24 20:13:43,881 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-24 20:13:43,885 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-24 20:13:43,886 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-24 20:13:44,583 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-24 20:13:46,405 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-24 20:13:49,509 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-24 20:13:49,513 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-24 20:13:49,515 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-24 20:13:49,687 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-24 20:13:49,688 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-24 20:13:49,692 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-24 20:13:49,704 [DEBUG] [MainThread] [systray_widget/systray.py:549]: Loading state from C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-24 20:13:49,711 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-11-24 20:13:49,711 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-11-24 20:13:49,739 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 4982768
+2025-11-24 20:13:49,739 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 4982768
+2025-11-24 20:13:49,770 [DEBUG] [MainThread] [systray_widget/systray.py:298]: Systray thread started
+2025-11-24 20:13:49,844 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-11-24 20:13:49,973 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 4982768
+2025-11-24 20:13:50,004 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49273
+2025-11-24 20:13:50,031 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2025-11-24 20:13:50,076 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 13503609
+2025-11-24 20:13:51,271 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-24 20:13:51,272 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:16:16,731 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-24 20:16:16,732 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-24 20:16:16,847 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-24 20:16:16,848 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-24 20:16:17,050 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-24 20:16:17,050 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-24 20:16:17,058 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:16:17,059 [DEBUG] [MainThread] [systray_widget/systray.py:527]: Saving state to disk
+2025-11-24 20:16:17,061 [DEBUG] [MainThread] [systray_widget/systray.py:531]: Saving state to C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-24 20:16:17,073 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 4982768
+2025-11-24 20:16:17,075 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 590134
+2025-11-24 20:16:17,087 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-24 20:16:17,091 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-24 20:16:17,101 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-24 20:16:17,145 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 590134
+2025-11-24 20:16:17,145 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 4982768
+2025-11-24 20:16:22,074 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-24 20:16:22,078 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-24 20:16:22,079 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-24 20:16:23,335 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-24 20:16:26,593 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-11-24 20:16:26,599 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-24 20:16:26,600 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-11-24 20:16:26,601 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-24 20:16:26,604 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-5ac079a1-c944-11f0-9e0c-9c297616ca55
+2025-11-24 20:16:26,606 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-24 20:16:26,789 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-24 20:16:26,790 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-24 20:16:26,794 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-24 20:16:26,798 [DEBUG] [MainThread] [systray_widget/systray.py:549]: Loading state from C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-24 20:16:26,805 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-11-24 20:16:26,806 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-11-24 20:16:26,825 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 2688882
+2025-11-24 20:16:26,826 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2688882
+2025-11-24 20:16:26,864 [DEBUG] [MainThread] [systray_widget/systray.py:298]: Systray thread started
+2025-11-24 20:16:27,067 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2688882
+2025-11-24 20:16:27,068 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-11-24 20:16:27,099 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49273
+2025-11-24 20:16:27,108 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2025-11-24 20:16:27,142 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 114953173
+2025-11-24 20:16:28,300 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-24 20:16:28,301 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:17:43,018 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-24 20:17:43,019 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-24 20:17:43,134 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-24 20:17:43,134 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-24 20:17:43,272 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-24 20:17:43,274 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-11-24 20:17:43,274 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-24 20:17:43,280 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-11-24 20:17:43,283 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:17:43,284 [DEBUG] [MainThread] [systray_widget/systray.py:527]: Saving state to disk
+2025-11-24 20:17:43,287 [DEBUG] [MainThread] [systray_widget/systray.py:531]: Saving state to C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-24 20:17:43,291 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2688882
+2025-11-24 20:17:43,292 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3475460
+2025-11-24 20:17:43,306 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-24 20:17:43,311 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-24 20:17:43,333 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-24 20:17:47,939 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-24 20:17:47,943 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-24 20:17:47,944 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-24 20:17:47,945 [ERROR] [MainThread] [root/main.py:76]: Another instance of the YASB is already running.
+2025-11-24 20:17:50,388 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3475460
+2025-11-24 20:17:50,389 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2688882
+2025-11-24 20:18:44,261 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-24 20:18:44,265 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-24 20:18:44,266 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-24 20:18:44,952 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-24 20:18:46,432 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-24 20:18:49,036 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-24 20:18:49,038 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-24 20:18:49,043 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-24 20:18:49,287 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-24 20:18:49,287 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-24 20:18:49,292 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-24 20:18:49,301 [DEBUG] [MainThread] [systray_widget/systray.py:549]: Loading state from C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-24 20:18:49,311 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-11-24 20:18:49,312 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-11-24 20:18:49,340 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 329236
+2025-11-24 20:18:49,341 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 329236
+2025-11-24 20:18:49,370 [DEBUG] [MainThread] [systray_widget/systray.py:298]: Systray thread started
+2025-11-24 20:18:49,574 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 329236
+2025-11-24 20:18:49,576 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-11-24 20:18:49,622 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49273
+2025-11-24 20:18:49,632 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2025-11-24 20:18:49,684 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 49351603
+2025-11-24 20:18:50,901 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-24 20:18:50,902 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:20:38,286 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-24 20:20:38,286 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:20:40,896 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-24 20:20:40,897 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:23:55,533 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-24 20:23:55,534 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 20:31:09,841 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-24 20:31:09,848 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-24 23:33:58,299 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-24 23:33:58,301 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-24 23:33:58,302 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-24 23:33:58,693 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-24 23:34:00,649 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-24 23:34:02,376 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-24 23:34:02,376 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-24 23:34:02,379 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-24 23:34:02,450 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-24 23:34:02,450 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-24 23:34:02,453 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-24 23:34:02,459 [DEBUG] [MainThread] [systray_widget/systray.py:549]: Loading state from C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-24 23:34:02,463 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-11-24 23:34:02,463 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-11-24 23:34:02,468 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 460110
+2025-11-24 23:34:02,468 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 460110
+2025-11-24 23:34:02,472 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-11-24 23:34:02,573 [DEBUG] [MainThread] [systray_widget/systray.py:298]: Systray thread started
+2025-11-24 23:34:02,778 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 460110
+2025-11-24 23:34:02,814 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49273
+2025-11-24 23:34:02,820 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2025-11-24 23:34:02,829 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 39060827
+2025-11-24 23:34:04,518 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-24 23:34:04,538 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 23:34:38,697 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-24 23:34:38,700 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-24 23:34:38,702 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-24 23:34:39,536 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-24 23:34:41,527 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-24 23:34:44,280 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-24 23:34:44,281 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-24 23:34:44,289 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-24 23:34:44,478 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-24 23:34:44,479 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-24 23:34:44,483 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-24 23:34:44,491 [DEBUG] [MainThread] [systray_widget/systray.py:549]: Loading state from C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-24 23:34:44,498 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-11-24 23:34:44,499 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-11-24 23:34:44,539 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 263550
+2025-11-24 23:34:44,539 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 263550
+2025-11-24 23:34:44,577 [DEBUG] [MainThread] [systray_widget/systray.py:298]: Systray thread started
+2025-11-24 23:34:44,779 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 263550
+2025-11-24 23:34:44,782 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-11-24 23:34:44,801 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49273
+2025-11-24 23:34:44,807 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 0
+2025-11-24 23:34:44,836 [ERROR] [TrayMonitor] [root/app_icons.py:282]: GetIconInfo failed: 328721
+2025-11-24 23:34:45,892 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-24 23:34:45,893 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 23:35:01,306 [DEBUG] [MainThread] [systray_widget/systray.py:487]: Re-sorting widgets
+2025-11-24 23:35:01,307 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 23:37:14,678 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-11-24 23:37:14,679 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2025-11-24 23:37:14,792 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-24 23:37:14,793 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-24 23:37:14,888 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-24 23:37:14,889 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-24 23:37:14,894 [DEBUG] [MainThread] [systray_widget/systray.py:509]: Updating current state
+2025-11-24 23:37:14,894 [DEBUG] [MainThread] [systray_widget/systray.py:527]: Saving state to disk
+2025-11-24 23:37:14,896 [DEBUG] [MainThread] [systray_widget/systray.py:531]: Saving state to C:\Users\Raunit\AppData\Local\YASB\systray_state_BOEDISPLAY1.json
+2025-11-24 23:37:14,902 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 263550
+2025-11-24 23:37:14,904 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 263538
+2025-11-24 23:37:14,917 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-24 23:37:14,919 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-24 23:37:14,924 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-24 23:37:14,965 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 263538
+2025-11-24 23:37:14,965 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 263550
+2025-11-24 23:37:17,162 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-24 23:37:17,164 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-24 23:37:17,164 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-24 23:37:17,420 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-24 23:37:18,623 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-24 23:37:20,058 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-11-24 23:37:20,060 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-24 23:37:20,062 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-24 23:37:20,296 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-24 23:37:20,297 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-24 23:37:20,301 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-24 23:37:36,578 [DEBUG] [MainThread] [wifi_widget/wifi_managers.py:262]: Scanning for WiFi networks...
+2025-11-24 23:43:26,864 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\Raunit\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- glazewm_workspaces:
+  - null value not allowed
+
+2025-11-24 23:45:06,396 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-24 23:45:06,508 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-24 23:45:06,508 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-24 23:45:06,551 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-24 23:45:06,558 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-24 23:45:06,561 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-11-24 23:45:06,568 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-24 23:45:06,570 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-24 23:45:06,571 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-24 23:45:07,919 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-24 23:45:07,923 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-24 23:45:07,924 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-24 23:45:08,694 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-24 23:45:10,710 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-24 23:45:13,917 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-11-24 23:45:13,931 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-24 23:45:13,935 [ERROR] [MainThread] [root/widget_builder.py:100]: Failed to validate widget(s) due to invalid options  - apps
+      glazewm_workspaces:
+      - unknown field
+      options:
+      - unknown field
+      type:
+      - unknown field
+      
+2025-11-24 23:45:14,082 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-24 23:45:14,284 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-24 23:45:14,285 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-24 23:45:14,288 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-24 23:45:35,222 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-24 23:45:35,326 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-24 23:45:35,327 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-24 23:45:35,335 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-24 23:45:35,338 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-24 23:45:35,338 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-11-24 23:45:35,341 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-24 23:45:35,342 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-24 23:45:35,345 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-24 23:45:36,657 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-24 23:45:36,661 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-24 23:45:36,662 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-24 23:45:37,447 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-24 23:45:39,315 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-24 23:45:42,309 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-11-24 23:45:42,319 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-24 23:45:42,323 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-24 23:45:42,537 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-24 23:45:42,538 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-24 23:45:42,543 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-24 23:47:06,160 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\Raunit\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- glazewm_workspaces:
+  - null value not allowed
+
+2025-11-24 23:50:01,130 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\Raunit\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- github:
+  - null value not allowed
+
+2025-11-24 23:52:07,628 [ERROR] [MainThread] [root/bar_manager.py:56]: Error loading config: while scanning a simple key
+  in "C:\Users\Raunit\.config\yasb\config.yaml", line 50, column 9
+could not find expected ':'
+  in "C:\Users\Raunit\.config\yasb\config.yaml", line 51, column 7
+2025-11-25 00:02:17,042 [INFO] [MainThread] [root/controller.py:35]: Exiting Application from tray...
+2025-11-25 00:02:17,145 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-25 00:02:17,146 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-25 00:02:17,172 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-25 00:02:17,176 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-11-25 00:02:17,187 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-25 00:02:17,193 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-25 00:02:17,197 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-26 23:17:58,125 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.4
+2025-11-26 23:17:58,132 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.3
+2025-11-26 23:17:58,134 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-26 23:18:02,737 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-11-26 23:18:15,470 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-11-26 23:18:23,557 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-11-26 23:18:23,570 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-26 23:18:23,575 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\Raunit\.config\yasb
+2025-11-26 23:18:23,781 [INFO] [MainThread] [root/update_service.py:321]: Background update checker started
+2025-11-26 23:18:23,781 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-26 23:18:23,785 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-26 23:18:25,807 [INFO] [UpdateChecker] [root/update_service.py:143]: Found architecture-specific asset: yasb-1.8.5-x64.msi
+2025-11-26 23:18:57,965 [INFO] [MainThread] [root/controller.py:35]: Exiting Application from tray...
+2025-11-26 23:18:58,079 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-26 23:18:58,080 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-26 23:18:58,090 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-26 23:18:58,091 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-11-26 23:18:58,097 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-26 23:18:58,110 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-26 23:18:58,112 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
