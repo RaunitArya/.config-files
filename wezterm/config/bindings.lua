@@ -190,11 +190,33 @@ local keys = {
       action = act.PaneSelect({ alphabet = '1234567890', mode = 'SwapWithActiveKeepFocus' }),
    },
 
+  -- panes: swap (NEW)
+   { key = 'K',     mods = 'CTRL|SHIFT', action = act.RotatePanes('CounterClockwise') },
+   { key = 'J',     mods = 'CTRL|SHIFT', action = act.RotatePanes('Clockwise') },
+   { key = 'H',     mods = 'CTRL|SHIFT', action = act.RotatePanes('CounterClockwise') },
+   { key = 'L',     mods = 'CTRL|SHIFT', action = act.RotatePanes('Clockwise') },
+
+    -- panes: selection menu (NEW)
+   {
+      key = 'P',
+      mods = 'CTRL|SHIFT',
+      action = act.PaneSelect({ alphabet = '1234567890' }),
+   },
+
    -- panes: scroll pane
    { key = 'u',        mods = mod.SUPER, action = act.ScrollByLine(-5) },
    { key = 'd',        mods = mod.SUPER, action = act.ScrollByLine(5) },
    { key = 'PageUp',   mods = 'NONE',    action = act.ScrollByPage(-0.75) },
    { key = 'PageDown', mods = 'NONE',    action = act.ScrollByPage(0.75) },
+
+  -- workspaces (NEW)
+   { key = 'n',        mods = mod.SUPER_REV, action = act.SwitchToWorkspace },
+   {
+      key = 'w',
+      mods = 'ALT|SHIFT',
+      action = act.ShowLauncherArgs({ flags = 'FUZZY|WORKSPACES' }),
+   },
+
 
    -- key-tables --
    -- resizes fonts
